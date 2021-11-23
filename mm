@@ -1,1 +1,2 @@
 Print("Laimonis")
+Print('Jānis')
